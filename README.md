@@ -30,3 +30,5 @@ https://firebase.google.com/docs/samples/
 ### Chat
 Check Chat example: https://github.com/firebase/friendlychat-web
 
+## Database Screenshots
+Database screenshots can be found in the two png images in the repository.
