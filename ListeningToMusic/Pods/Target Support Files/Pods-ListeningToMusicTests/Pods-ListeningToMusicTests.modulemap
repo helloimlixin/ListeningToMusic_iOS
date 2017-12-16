@@ -1,0 +1,6 @@
+framework module Pods_ListeningToMusicTests {
+  umbrella header "Pods-ListeningToMusicTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
