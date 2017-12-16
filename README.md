@@ -22,7 +22,8 @@ Example provided by the Apple in the tutorial link: https://developer.apple.com/
 
 After finishing the FoodTracker App, in this repostitory I created a new app called ListeningToMusic.
 
-## Part 2:  Study, modify and intergate one of Firebase Examples						
+## Part 2:  Study, modify and intergate one of Firebase Examples
+For this part of the homework, I implemented user authentication using Firebase.
 
 https://firebase.google.com/docs/samples/
 
